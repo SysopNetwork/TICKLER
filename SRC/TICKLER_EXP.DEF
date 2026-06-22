@@ -1,0 +1,8 @@
+; TICKLER_EXP.DEF - Export definitions for TICKLER.DLL
+; TICKLER - The Major BBS V10 Watchdog Marker Module
+; Copyright (C) 2026 Sysop Network
+
+LIBRARY TICKLER.DLL
+
+EXPORTS
+    _init__tickler=init__tickler    @1

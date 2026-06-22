@@ -1,0 +1,40 @@
+# Visual Studio build output
+BUILD/
+*.obj
+*.pdb
+*.ilk
+*.exp
+*.lib
+*.idb
+
+# Visual Studio IDE files
+.vs/
+*.user
+*.suo
+*.aps
+*.ncb
+*.opensdf
+*.sdf
+*.cache
+
+# Local developer configuration (contains local filesystem paths - never commit)
+SRC/Local.props
+
+# Internal project files (not for public repositories)
+MEMORY.MD
+PROJECT_STATUS.MD
+Marks Notes/
+
+# Editor / tooling local configuration
+.vscode/
+
+# Temporary and OS files
+Thumbs.db
+Desktop.ini
+*.tmp
+*.bak
+*~
+
+# Compiled DLL in DIST (committed manually after verified release build)
+# Uncomment the line below if you prefer not to commit binaries:
+# DIST/**/*.DLL
