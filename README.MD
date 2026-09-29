@@ -80,6 +80,13 @@ Any tool that can read a file and check a process list can use TICKLER. Example 
 
 ---
 
+## Tips / Donations
+
+- **Cash App:** [$laudenbachm](https://cash.app/$laudenbachm)
+- **Ko-fi:** [ko-fi.com/laudenbachm](https://ko-fi.com/laudenbachm)
+
+---
+
 ## License
 
 TICKLER is released under the [MIT License](LICENSE).
